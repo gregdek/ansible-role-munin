@@ -14,3 +14,8 @@ galaxy_info:
   categories:
     - monitoring
     - system
+  tags:
+    - onetag
+    - twotag
+    - redtag
+    - bluetag
