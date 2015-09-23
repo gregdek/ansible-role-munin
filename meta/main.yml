@@ -14,6 +14,8 @@ galaxy_info:
   categories:
     - monitoring
     - system
+    - foo
+    - bar
   tags:
     - foo
     - bar
