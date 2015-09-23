@@ -11,11 +11,6 @@ galaxy_info:
   - name: EL
     versions:
     - all
-  categories:
-    - monitoring
-    - system
-    - foo
-    - bar
   tags:
-    - foo
-    - bar
+    - baz
+    - blippy
