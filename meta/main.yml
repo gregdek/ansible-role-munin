@@ -2,8 +2,8 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
-  description: Munin monitoring server for RedHat/CentOS.
+  author: Björn
+  description: Munin monitoring server for RedHat/CentOS, built by Björn.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.4
@@ -11,6 +11,7 @@ galaxy_info:
   - name: EL
     versions:
     - all
-  tags:
+  galaxy_tags:
     - baz
     - blippy
+    - Björn
