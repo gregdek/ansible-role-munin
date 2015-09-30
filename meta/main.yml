@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  author: Björn
+  author: Bjorn-with-an-umlaut
   description: Munin monitoring server for RedHat/CentOS, built by Björn.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
